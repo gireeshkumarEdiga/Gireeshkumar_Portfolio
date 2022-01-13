@@ -73,7 +73,7 @@ projectsSection.innerHTML = `
                     </div>
                     <div class="projectDescription">
                         <p>Developed a clone of <a href="https://www.tanishq.co.in//"
-                                style="color: #FFF; text-decoration: underline;" target="_blank">Tanishq</a> website</p>
+                                style="color: #FFF; text-decoration: underline;" target="_blank">Tanishq</a> website.</p>
                         <br >
                         <p>Along with 5 other members, build this clone in 6 days, websites which includes websites such as Login page, Cart page, Product page & Payment page.</p>
                         </p>
