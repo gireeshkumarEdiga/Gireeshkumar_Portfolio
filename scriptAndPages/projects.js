@@ -14,7 +14,7 @@ projectsSection.innerHTML = `
                         Along with 2 other members, build the application in 6 days
                         </p>
                         <br>
-                        <p>The Digital Garage is a non-profit nationwide program from Google delivering free digital skills training via an online learning platform. This platform provides individuals with a tailored training plan to learn digital skills, completely for free./p>
+                        <p>I developed certification page, Tools & resources and help & FAQS</p>
                         <br>
                         <u style="text-decoration: underline;">TechStack :- </u>
                         <br>
@@ -43,13 +43,13 @@ projectsSection.innerHTML = `
                         <img src="./images/pic03.png" alt="" />
                     </div>
                      <div class="projectDescription">
-                        <p>Developed a clone of <a href="https://www.tanishq.co.in//"
-                                style="color: #FFF; text-decoration: underline;" target="_blank">Tanishq</a> website</p>
+                        <p>Developed a clone of <a href="https://www.dermstore.com/"
+                                style="color: #FFF; text-decoration: underline;" target="_blank">Dermstore</a> website</p>
                         <br >
-                        <p> Along withy 5 other members, build lybrate clone in 6 days</p>
+                        <p>its an individual project, build dermstore clone in 6 days</p>
                         </p>
                         <br>
-                        <p>Tanishq has emerged as India’s fastest growing jewellery brand and is a name which signifies superior craftsmanship, exclusive designs and superlative product quality.</p>
+                        <p>I developed everything in this project what you seen in demo</p>
                         <br>
                         <u style="text-decoration: underline;">TechStack :- </u>
                         <br>
@@ -81,10 +81,10 @@ projectsSection.innerHTML = `
                         <p>Developed a clone of <a href="https://www.tanishq.co.in//"
                                 style="color: #FFF; text-decoration: underline;" target="_blank">Tanishq</a> website</p>
                         <br >
-                        <p> Along withy 5 other members, build lybrate clone in 6 days</p>
+                        <p>Along with 5 other members, build lybrate clone in 6 days</p>
                         </p>
                         <br>
-                        <p>Tanishq has emerged as India’s fastest growing jewellery brand and is a name which signifies superior craftsmanship, exclusive designs and superlative product quality.</p>
+                        <p>I developed Login page both sign-up ans sign-in using</p>
                         <br>
                         <u style="text-decoration: underline;">TechStack :- </u>
                         <br>
