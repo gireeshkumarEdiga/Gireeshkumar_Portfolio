@@ -9,12 +9,9 @@ projectsSection.innerHTML = `
                     </div>
                     <div class="projectDescription">
                     <p>Developed a clone of <a href="https://learndigital.withgoogle.com/digitalgarage/"
-                    style="color: #FFF; text-decoration: underline;" target="_blank">Google digital Garage</a> website<p >
+                    style="color: #FFF; text-decoration: underline;" target="_blank">Google digital Garage</a> website.<p >
                         <br >
-                        Along with 2 other members, build the application in 6 days
-                        </p>
-                        <br>
-                        <p>Google digital garage is basically where you can learn digital skills for free at your own pace, with personalised training designed to help you develop your career, market your business, and more.</p>
+                        Along with 2 other members, build the application in 6 days. each individual page was assigned by individual person. websites which we includes Login page, Home page & Products page.</p>
                         <br>
                         <u style="text-decoration: underline;">TechStack :- </u>
                         <br>
@@ -44,11 +41,9 @@ projectsSection.innerHTML = `
                     </div>
                      <div class="projectDescription">
                         <p>Developed a clone of <a href="https://www.dermstore.com/"
-                                style="color: #FFF; text-decoration: underline;" target="_blank">Dermstore</a> website</p>
+                                style="color: #FFF; text-decoration: underline;" target="_blank">Dermstore</a> website.</p>
                         <br >
-                        <p>it is an individual project, build the application in 5 days.</p>
-                        <br>
-                        <p>Dermstore is skin care website for beauty products online. They provide harmless products and we can book in online, They delivered PAN India location.</p>
+                        <p>it is an individual project, build the application in 5 days. websites which we includes the features Login page, Login page, Cart page, Products page & Search bar option.</p>
                         <br>
                         <u style="text-decoration: underline;">TechStack :- </u>
                         <br>
@@ -80,10 +75,8 @@ projectsSection.innerHTML = `
                         <p>Developed a clone of <a href="https://www.tanishq.co.in//"
                                 style="color: #FFF; text-decoration: underline;" target="_blank">Tanishq</a> website</p>
                         <br >
-                        <p>Along with 5 other members, build this clone in 6 days</p>
+                        <p>Along with 5 other members, build this clone in 6 days, websites which includes websites such as Login page, Cart page, Product page & Payment page.</p>
                         </p>
-                        <br>
-                        <p>Tanishq is online Gold & Diamond jewellery shopping store. customers can book an appointment for special design. Tanishq store is a very accurate way of measuring the purity of gold.</p>
                         <br>
                         <u style="text-decoration: underline;">TechStack :- </u>
                         <br>
