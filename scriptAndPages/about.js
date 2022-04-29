@@ -26,7 +26,7 @@ about.innerHTML = `
                     </div>
                     <p class="iconsAboutSection"> <i class="fas fa-phone"></i> +91-7997432307</p>
                     <p class="iconsAboutSection"><i class="fas fa-envelope"></i> edigagireeshkumar@gmail.com</p>
-                    <a href="https://drive.google.com/file/d/1qZoaFayVNHqSThxQ-1TZpUcD6F1GaBni/view?usp=sharing"
+                    <a href="https://drive.google.com/file/d/1qv8xV-NNYT9B9N8QKrjJQ45sDC1fsGvm/view?usp=sharing"
                         target="_blank" class="resumeToDrive">Resume</a>
                 </div>
             </div>
