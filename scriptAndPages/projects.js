@@ -123,7 +123,7 @@ projectsSection.innerHTML = `
                         <div class="ProjectLinks">
                             <a href="https://github.com/gireeshkumarEdiga/Myntra"
                                 target="_blank"><button>
-                                    Github/"</button></a>
+                                    Github"</button></a>
                             <a href="https://myntra-coral.vercel.app/" target="_blank"><button>Demo</button></a>
 
                         </div>
