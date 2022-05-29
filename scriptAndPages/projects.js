@@ -118,13 +118,13 @@ projectsSection.innerHTML = `
                             <p> <i class="fab fa-react-square"></i> react </p>
                             <p> <i class="fab fa-mongodb-square"></i> MongoDB </p>
                             <p> <i class="fab fa-express-square"></i> Express </p>
-                            
+                            <p> <i class="fab fa-express-square"></i> NodeJS </p>
                         </div>
                         <div class="ProjectLinks">
-                            <a href="https://github.com/gireeshkumarEdiga/Myntra"
+                            <a href="https://github.com/gireeshkumarEdiga/myntra_clone"
                                 target="_blank"><button>
                                     Github"</button></a>
-                            <a href="https://myntra-coral.vercel.app/" target="_blank"><button>Demo</button></a>
+                            <a href="https://myntra-clone-k2ds4n5yg-gireeshkumarediga.vercel.app/" target="_blank"><button>Demo</button></a>
 
                         </div>
                     </div>
