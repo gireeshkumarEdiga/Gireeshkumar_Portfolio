@@ -4,40 +4,48 @@ skills.innerHTML = `
 <h2 class="title">My skills</h2>
 <div class="SkillsContent">
     <div>
-        <i class="fab fa-html5"></i>
+        <i class=""></i>
         <p>Html</p>
     </div>
     <div>
-        <i class="fab fa-css3-alt"></i>
+        <i class=""></i>
         <p>CSS</p>
     </div>
+        <div>
+        <i class=""></i>
+        <p>Boostrap</p>
+    </div>
     <div>
-        <i class="fab fa-js-square"></i>
+        <i class=""></i>
         <p>JavaScript</p>
     </div>
-    <div>
-        <i class="fab fa-node-js"></i>
-        <p>ExpressJs</p>
+        <div>
+        <i class=""></i>
+        <p>JQuery</p>
     </div>
     <div>
-        <i class="fab fa-node-js"></i>
-        <p>NodeJs</p>
-    </div>
-    <div>
-        <i class="fas fa-database"></i>
-        <p>MongoDb</p>
-    </div>
-    <div>
-        <i class="fab fa-react"></i>
+        <i class=""></i>
         <p>React</p>
     </div>
     <div>
-        <i class="fab fa-react"></i>
+        <i class=""></i>
         <p>Redux</p>
     </div>
     <div>
-        <i class="fab fa-python"></i>
-        <p>Python</p>
+        <i class=""></i>
+        <p>NextJS</p>
+    </div>
+        <div>
+        <i class=""></i>
+        <p>Material UI</p>
+    </div>
+    <div>
+        <i class=""></i>
+        <p>D3.js</p>
+    </div>
+    <div>
+        <i class=""></i>
+        <p>Chart.js</p>
     </div>
 
 </div>
