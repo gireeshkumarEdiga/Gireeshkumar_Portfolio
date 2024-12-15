@@ -1,7 +1,44 @@
 let projectsSection = document.getElementById("mainDivProjectsSection");
 projectsSection.innerHTML = `
-            <!-- product hunt -->
             <div class="eachProjectDiv MailChimp">
+            <p class="ProjectName ">SOLUS</p>
+            <div class="ProjectContainer">
+                <div class="ProjectImage">
+                    <img src="./images/solus.png" alt="" />
+                </div>
+                <div class="projectDescription">
+                <p>Developed a Product of <a href="https://cartui.solus.ai/page/landing.html"
+                style="color: #FFF; text-decoration: underline;" target="_blank">SOLUS</a> website.<p >
+                    <br >
+                    Along with my Team members to build this Product </p>
+                    <br>
+                    <div>SOLUS is a Product where we can Create Campaigns from User Interface. Based on
+                        Market Demands, Situations and Client Requirements, we can Create Campaigns as per the
+                        Schedule, will Send through the Channels (SMS/WhatsApp/Email/PN). </div><br/>
+                    <u style="text-decoration: underline;">TechStack :- </u>
+                    <br>
+                    <div class="techStackProject">
+                        <p><i class="fab fa-html5"></i> HTML</p>
+                        <p><i class="fab fa-css3-alt"></i> CSS</p>
+                        <p><i class=""></i>Bootstrap</p>
+                        <p> <i class="fab fa-js-square"></i> JS </p>
+                        <p> <i class=""></i> JQuery </p>
+                        <p><i class=""></i>ReactJS</p>
+                        <p><i class=""></i>Redux</p>
+                        <p><i class=""></i>Material UI</p>
+                        <p><i class=""></i>D3.js</p>
+                        <p><i class=""></i>Chart.js</p>
+                    </div>
+                    <div class="ProjectLinks" style="display:none" >
+                    <a href="https://github.com/mausam-kumar/googleDigitalGarage" target="_blank"><button>Github</button></a>
+                    <a href="https://gireeshkumarediga.github.io/googleDigitalGarage2/HTML/main.html" target="_blank"><button>Demo</button></a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+            <!-- product hunt -->
+            <div class="eachProjectDiv MailChimp" style="display:none" >
                 <p class="ProjectName ">Google Digital Garage</p>
                 <div class="ProjectContainer">
                     <div class="ProjectImage">
@@ -33,7 +70,7 @@ projectsSection.innerHTML = `
             </div>
 
             <!-- mailchimp project -->
-            <div class="eachProjectDiv ">
+            <div class="eachProjectDiv" style="display:none" >
                 <p class="ProjectName ">Dermstore</p>
                 <div class="ProjectContainer">
                     <div class="ProjectImage">
@@ -65,7 +102,7 @@ projectsSection.innerHTML = `
             </div>
 
             <!-- lybrate project -->
-            <div class="eachProjectDiv">
+            <div class="eachProjectDiv" style="display:none" >
                 <p class="ProjectName">Tanishq</p>
                 <div class="ProjectContainer">
                     <div class="ProjectImage">
@@ -96,7 +133,7 @@ projectsSection.innerHTML = `
                     </div>
                 </div>
             </div>
-            <div class="eachProjectDiv">
+            <div class="eachProjectDiv" style="display:none" >
                 <p class="ProjectName">Myntra</p>
                 <div class="ProjectContainer">
                     <div class="ProjectImage">
